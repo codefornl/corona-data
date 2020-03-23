@@ -16,7 +16,7 @@ for card in questions:
     subtitle = card.find('h6').text
     description = card.find('p', class_='card-text').text
     hulpvragen.append({'title': title, 'location': subtitle, 'description': description})
-with open('heldnodig.json', 'w') as f:
+with open('../heldnodig.json', 'w') as f:
     json.dump(hulpvragen, f)
 
 
