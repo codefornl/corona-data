@@ -1,1 +1,110 @@
-[{"title": "Producten", "location": "1949CK Wijk aan Zee (Maps)", "description": "Talloze instellingen, thuiszorgorganisaties en ziekenhuizen hebben te kort aan spatbrillen,  vuurwerkbrillen en veiligheidsbrillen voldoen hier aan. Dus bij deze een oproep om deze brillen te doneren voor de strijd  tegen corona.\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden\n"}, {"title": "Overig", "location": "6109AH Ohe en Laak (Maps)", "description": "Hoi mede helden\r\nMijn dochter moet 31 maart haar particuliere woning uit omdat het contract verloopt . En zeker nu in deze tijd is niks te krijgen en is ze volgens woningbouw GEEN URGENT   bent U of kent U iemand in uw omgeving die een (koop)huis leeg heeft staan in de westelijke mijnstreek  en zij het kunnen huren voor een korte periode neem dan aub contact met mij op anders staan ze over 11 dagen op straat met 3 kleine kinderen van 2, 1 en 0 jaar \r\n\r\nMijn dank is groot\r\n\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden\n"}, {"title": "Boodschappen", "location": "5301BZ Zaltbommel (Maps)", "description": "Ik zoek voor een meneer in zaltbommel, iemand die 1x in de week/1x in de 2 weken grote, zware boodschappen kan halen bij de jumbo. Dhr is zelf chronisch ziek en het is beter dat hij niet zelf naar de supermarkt gaat. \n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden\n"}, {"title": "Producten", "location": "1186DK Amstelveen (Maps)", "description": "Thuiszorgorganisatie Amstelring Wijkzorg is dringend op zoek naar beschermingsmateriaal:\n- wegwerphandschoenen\n- Schorten met lange mouwen\n- mondmaskers met keurmerk FFP1, FFP2, FFP3\n- Handalcohol\n- Veiligheidsbrillen\nAlles is welkom!\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden\n"}, {"title": "Producten", "location": "5171DT Kaatsheuvel (Maps)", "description": "Wij zoeken voor de voedselbank veel producten. Door het virus zijn onze vaste leveranciers flink afgenomen. Wie zou ons kunnen helpen aan meer voedsel voor onze pakketten?\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden\n"}, {"title": "Oppas", "location": "8043TS Kampen (Maps)", "description": "Voor een contact in Kampen ben ik op zoek naar een oppas. Mijn contact werkt in de zorg. Meer info bij contact.\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden\n"}, {"title": "Overig", "location": "2555XP Den Haag  (Maps)", "description": "Ik zoek voor de komende weken een elektrische fiets die ik mag lenen in Den Haag om naar werk (zorg) te kunnen gaan ipv met het OV.\n\n"}, {"title": "Boodschappen", "location": "1941GB Beverwijk (Maps)", "description": "Ik ben een 65 jarige vrouw die in de risiccogroep valt. Ik heb vrijwel geen sociaal netwerk hier in de buurt. Ik heb momenteel geen klachten, maar heb mijzelf uit voorzorg in isolatie gezet."}, {"title": "Hond uitlaten", "location": "1813ZB Alkmaar (Maps)", "description": "Kan iemand me helpen met de hond uitlaten? Ik lig zelf ziek op bed."}, {"title": "Overig", "location": "2022XE Haarlem (Maps)", "description": "Heeft er iemand een USB C oplader voor een Macbook te leen deze week? Ik ben mijn oplader vergeten op kantoor en deze is nu gesloten. Ik ben verkouden en mag volgens de richtlijnen dus niet naar buiten."}, {"title": "Oppas", "location": "1325LG Almere (Maps)", "description": "Ik werk met in een verzorgingshuis, maar mijn vaste oppas is verkouden. Ik wil geen risico lopen. Is er iemand die wil oppassen op mijn zoontje van 3?"}, {"title": "Overig", "location": "4815CV Breda (Maps)", "description": "Onze supermarkt is door alle ziekmeldingen zwaar onderbezet, terwijl er heel veel mensen boodschappen nodig hebben. Kan iemand ons team versterken?"}]
+[
+  {
+    "category": "Producten",
+    "description": "Talloze instellingen, thuiszorgorganisaties en ziekenhuizen hebben te kort aan spatbrillen,  vuurwerkbrillen en veiligheidsbrillen voldoen hier aan. Dus bij deze een oproep om deze brillen te doneren voor de strijd  tegen corona.\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden",
+    "location": {
+      "city": "Wijk aan Zee",
+      "postalcode": "1949CK",
+      "title": "1949CK Wijk aan Zee"
+    }
+  },
+  {
+    "category": "Overig",
+    "description": "Hoi mede helden\r\nMijn dochter moet 31 maart haar particuliere woning uit omdat het contract verloopt . En zeker nu in deze tijd is niks te krijgen en is ze volgens woningbouw GEEN URGENT   bent U of kent U iemand in uw omgeving die een (koop)huis leeg heeft staan in de westelijke mijnstreek  en zij het kunnen huren voor een korte periode neem dan aub contact met mij op anders staan ze over 11 dagen op straat met 3 kleine kinderen van 2, 1 en 0 jaar \r\n\r\nMijn dank is groot\r\n\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden",
+    "location": {
+      "city": "Ohe en Laak",
+      "postalcode": "6109AH",
+      "title": "6109AH Ohe en Laak"
+    }
+  },
+  {
+    "category": "Boodschappen",
+    "description": "Ik zoek voor een meneer in zaltbommel, iemand die 1x in de week/1x in de 2 weken grote, zware boodschappen kan halen bij de jumbo. Dhr is zelf chronisch ziek en het is beter dat hij niet zelf naar de supermarkt gaat. \n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden",
+    "location": {
+      "city": "Zaltbommel",
+      "postalcode": "5301BZ",
+      "title": "5301BZ Zaltbommel"
+    }
+  },
+  {
+    "category": "Producten",
+    "description": "Thuiszorgorganisatie Amstelring Wijkzorg is dringend op zoek naar beschermingsmateriaal:\n- wegwerphandschoenen\n- Schorten met lange mouwen\n- mondmaskers met keurmerk FFP1, FFP2, FFP3\n- Handalcohol\n- Veiligheidsbrillen\nAlles is welkom!\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden",
+    "location": {
+      "city": "Amstelveen",
+      "postalcode": "1186DK",
+      "title": "1186DK Amstelveen"
+    }
+  },
+  {
+    "category": "Producten",
+    "description": "Wij zoeken voor de voedselbank veel producten. Door het virus zijn onze vaste leveranciers flink afgenomen. Wie zou ons kunnen helpen aan meer voedsel voor onze pakketten?\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden",
+    "location": {
+      "city": "Kaatsheuvel",
+      "postalcode": "5171DT",
+      "title": "5171DT Kaatsheuvel"
+    }
+  },
+  {
+    "category": "Oppas",
+    "description": "Voor een contact in Kampen ben ik op zoek naar een oppas. Mijn contact werkt in de zorg. Meer info bij contact.\n\t\t\t\t    \n\t\t\t\t\t\t\t    Voor deze hulpvraag zoeken we meerdere helden",
+    "location": {
+      "city": "Kampen",
+      "postalcode": "8043TS",
+      "title": "8043TS Kampen"
+    }
+  },
+  {
+    "category": "Overig",
+    "description": "Ik zoek voor de komende weken een elektrische fiets die ik mag lenen in Den Haag om naar werk (zorg) te kunnen gaan ipv met het OV.",
+    "location": {
+      "city": "Den Haag",
+      "postalcode": "2555XP",
+      "title": "2555XP Den Haag"
+    }
+  },
+  {
+    "category": "Boodschappen",
+    "description": "Ik ben een 65 jarige vrouw die in de risiccogroep valt. Ik heb vrijwel geen sociaal netwerk hier in de buurt. Ik heb momenteel geen klachten, maar heb mijzelf uit voorzorg in isolatie gezet.",
+    "location": {
+      "city": "Beverwijk",
+      "postalcode": "1941GB",
+      "title": "1941GB Beverwijk"
+    }
+  },
+  {
+    "category": "Hond uitlaten",
+    "description": "Kan iemand me helpen met de hond uitlaten? Ik lig zelf ziek op bed.",
+    "location": {
+      "city": "Alkmaar",
+      "postalcode": "1813ZB",
+      "title": "1813ZB Alkmaar"
+    }
+  },
+  {
+    "category": "Overig",
+    "description": "Heeft er iemand een USB C oplader voor een Macbook te leen deze week? Ik ben mijn oplader vergeten op kantoor en deze is nu gesloten. Ik ben verkouden en mag volgens de richtlijnen dus niet naar buiten.",
+    "location": {
+      "city": "Haarlem",
+      "postalcode": "2022XE",
+      "title": "2022XE Haarlem"
+    }
+  },
+  {
+    "category": "Oppas",
+    "description": "Ik werk met in een verzorgingshuis, maar mijn vaste oppas is verkouden. Ik wil geen risico lopen. Is er iemand die wil oppassen op mijn zoontje van 3?",
+    "location": {
+      "city": "Almere",
+      "postalcode": "1325LG",
+      "title": "1325LG Almere"
+    }
+  },
+  {
+    "category": "Overig",
+    "description": "Onze supermarkt is door alle ziekmeldingen zwaar onderbezet, terwijl er heel veel mensen boodschappen nodig hebben. Kan iemand ons team versterken?",
+    "location": {
+      "city": "Breda",
+      "postalcode": "4815CV",
+      "title": "4815CV Breda"
+    }
+  }
+]
