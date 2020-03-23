@@ -28,7 +28,12 @@ Uses paging where total amount of pages is returned in the response.
 https://nijmegen-oost.nl/elkaar-helpen
 https://puurpapendrecht.nl/
 
-No trace of an API. Requires scraping I guess.
+Finding some traces of something called Thrive comments in the submit which is part of thrive themes (for wordpress). This is per city only and masterdam has only two requests. And Tilburg which is hit hard 0 requests. Not really worth the pursuit right now I guess.
+
+## Corona Hulp
+https://www.coronahulp.com/
+
+Not easy to deduce how this platform works.
 
 ## Whapp
 https://cooperatiewehelpen.nl/
