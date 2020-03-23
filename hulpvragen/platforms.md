@@ -17,8 +17,7 @@ Can't query without zipcode. Doing it for each zipcode implies millions of reque
 ## Niet Alleen
 https://nietalleen.nl/
 
-Zo te zien allemaal handmatige matching op verschillende organisaties. Je kan een organisatie zoals een kerk aanmelden via een formulier.
-
+As far as I can see this is a full manual matching process to organisations. There is no way to query the help requests.
 ## Corona Helpers
 https://www.coronahelpers.nl/
 
@@ -29,15 +28,19 @@ Uses paging where total amount of pages is returned in the response.
 https://nijmegen-oost.nl/elkaar-helpen
 https://puurpapendrecht.nl/
 
-
+No trace of an API. Requires scraping I guess.
 
 ## Whapp
 https://cooperatiewehelpen.nl/
+
+I don't understand how this app works. I signed up. But there's not even a list of queries to been seen. So at this stage I can't even be bothered to research the backend.
 
 ## Bezorg de Zorg
 https://www.bezorg-dezorg.nl/
 Hier weet @janvankampen meer van
 
+
 ## Studenten helpen Scholeren
 https://studentenhelpenscholieren.nl/
 
+This is a simple Google form that thus has a Google sheet as data store.
