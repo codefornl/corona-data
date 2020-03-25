@@ -6,7 +6,7 @@ https://heldnodig.nl/
 
 ## NL Voor Elkaar
 https://www.nlvoorelkaar.nl/
-https://www.nlvoorelkaar.nl/coronahulp/?utm_campaign=Martijn%20Arets%20%28De%20Platformrevolutie%29&utm_medium=email&utm_source=Revue%20newsletter
+https://www.nlvoorelkaar.nl/coronahulp/
 
 ## Gewoon Mensen
 https://www.gewoonmensendiemensenwillenhelpen.nl/
@@ -23,17 +23,22 @@ https://www.coronahelpers.nl/
 
 **api address:**: https://www.coronahelpers.nl/api/deeds?query=&page=1&causes=&activities=&date=&pageSize=18&withOrganization=true
 Uses paging where total amount of pages is returned in the response.
+Accept: application/json
+X-Requested-With: XMLHttpRequest
 
 ## Elkaar Helpen
 https://nijmegen-oost.nl/elkaar-helpen
 https://puurpapendrecht.nl/
 
-Finding some traces of something called Thrive comments in the submit which is part of thrive themes (for wordpress). This is per city only and masterdam has only two requests. And Tilburg which is hit hard 0 requests. Not really worth the pursuit right now I guess.
+Could be scraped I guess. But I wonder how many of these Elkaar Helpen instances there are. There is there
+own website, which contains all their help requests, not corona specific. Looks like this requires scraping.
 
 ## Corona Hulp
 https://www.coronahulp.com/
 
 Not easy to deduce how this platform works.
+
+Finding some traces of something called Thrive comments in the submit which is part of thrive themes (for wordpress). This is per city only and masterdam has only two requests. And Tilburg which is hit hard 0 requests. Not really worth the pursuit right now I guess.
 
 ## Whapp
 https://cooperatiewehelpen.nl/
