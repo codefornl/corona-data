@@ -53,4 +53,9 @@ Hier weet @janvankampen meer van
 ## Studenten helpen Scholeren
 https://studentenhelpenscholieren.nl/
 
-This is a simple Google form that thus has a Google sheet as data store.
+This is a simple Google forms that thus has a Google sheet as data store.
+
+# Zorghelden Auto
+https://zorgheldenauto.nl
+
+This is also a simple Google forms.
