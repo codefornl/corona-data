@@ -3,10 +3,9 @@
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-python scrape_heldnodig.py
-python scrape_nlvoorelkaar.py
+python main.py
 ```
 
-this will generate the file `*.json` that can be used to aggregate help requests from various sources
+this will generate the `corona-data.db` sqlite file. No sqlite3? Don't worry, you can upload the database to https://sqliteonline.com/ and view it there!
 
 Read [platforms](platforms.md) for our roadmap of platforms to scrape
