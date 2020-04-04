@@ -11,7 +11,7 @@ List of dutch platforms for which we can figure out how to fetch or scrape data.
 - [X] https://wijamsterdam.nl
 - [ ] https://www.coronahulp.com/
 - [ ] https://cooperatiewehelpen.nl/
-- [-] https://www.bezorg-dezorg.nl/ - __afgesloten met user/password/volledige persoonsgegevens__
+- [ ] https://www.bezorg-dezorg.nl/ - __afgesloten met user/password/volledige persoonsgegevens__
 - [ ] https://studentenhelpenscholieren.nl/
 - [X] https://zorgheldenauto.nl
 
