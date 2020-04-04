@@ -7,13 +7,13 @@ List of dutch platforms for which we can figure out how to fetch or scrape data.
 - [ ] [Niet Alleen](https://nietalleen.nl/)
 - [ ] [Corona Helpers](https://www.coronahelpers.nl/)
 - [ ] https://nijmegen-oost.nl/elkaar-helpen
-- [ ] https://puurpapendrecht.nl/
+- [X] https://puurpapendrecht.nl/
 - [X] https://wijamsterdam.nl
 - [ ] https://www.coronahulp.com/
 - [ ] https://cooperatiewehelpen.nl/
-- [ ] https://www.bezorg-dezorg.nl/
+- [-] https://www.bezorg-dezorg.nl/ - __afgesloten met user/password/volledige persoonsgegevens__
 - [ ] https://studentenhelpenscholieren.nl/
-- [ ] https://zorgheldenauto.nl
+- [X] https://zorgheldenauto.nl
 
 
 
