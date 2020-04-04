@@ -25,7 +25,7 @@ class WijAmsterdam:
             description = card.find(
                 'p').text.strip(' \t\n\r')
             link = card.find('a')['href']
-            db.session.add(Initiative(category=title,
+            db.session.add(Initiative(name=title,
                                       description=description,
                                       group="unknown",
                                       source='https://wijamsterdam.nl' + link,
