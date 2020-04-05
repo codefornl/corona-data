@@ -4,3 +4,4 @@ from .wijamsterdam import WijAmsterdam
 from .mensendiewillenhelpen import MensenDieWillenHelpen
 from .zorgheldenauto import Zorgheldenauto
 from .puurpapendrecht import PuurPapendrecht
+from .coronahelpers import CoronaHelpers
