@@ -5,3 +5,4 @@ from .mensendiewillenhelpen import MensenDieWillenHelpen
 from .zorgheldenauto import Zorgheldenauto
 from .puurpapendrecht import PuurPapendrecht
 from .coronahelpers import CoronaHelpers
+from .nijmegenoost import NijmegenOost

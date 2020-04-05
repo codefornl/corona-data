@@ -5,8 +5,8 @@ List of dutch platforms for which we can figure out how to fetch or scrape data.
 - [X] [NL Voor Elkaar](https://www.nlvoorelkaar.nl/coronahulp/)
 - [X] [Gewoon Mensen](https://www.gewoonmensendiemensenwillenhelpen.nl/)
 - [ ] [Niet Alleen](https://nietalleen.nl/)
-- [ ] [Corona Helpers](https://www.coronahelpers.nl/)
-- [ ] https://nijmegen-oost.nl/elkaar-helpen
+- [ ] [Corona Helpers](https://www.coronahelpers.nl/) __anti scrape mechanisme in werking, niet legaal om verder te gaan__
+- [X] https://nijmegen-oost.nl/elkaar-helpen
 - [X] https://puurpapendrecht.nl/
 - [X] https://wijamsterdam.nl
 - [ ] https://www.coronahulp.com/
