@@ -14,6 +14,7 @@ List of dutch platforms for which we can figure out how to fetch or scrape data.
 - [ ] https://www.bezorg-dezorg.nl/ - __afgesloten met user/password/volledige persoonsgegevens__
 - [ ] https://studentenhelpenscholieren.nl/
 - [X] https://zorgheldenauto.nl
+- [ ] https://coronapioniers.vpro.nl dit is een Ushahidi site. Kan via de API worden bevraagd.
 
 
 
