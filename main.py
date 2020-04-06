@@ -5,12 +5,13 @@ from platformen import HeldNodig, NLvoorElkaar, WijAmsterdam, MensenDieWillenHel
 
 # CoronaHelpers().scrape(); Niet bruikbaar. te sterk beveiligd om binnen legale kaders te scrapen.
 
-# HeldNodig().scrape()
-# NLvoorElkaar().scrape()
-# WijAmsterdam().scrape()
-# MensenDieWillenHelpen().scrape()
-# Zorgheldenauto().scrape()
-# PuurPapendrecht().scrape()
-# NijmegenOost().scrape()
+HeldNodig().scrape()
+NLvoorElkaar().scrape()
+WijAmsterdam().scrape()
+MensenDieWillenHelpen().scrape()
+Zorgheldenauto().scrape()
+PuurPapendrecht().scrape()
+NijmegenOost().scrape()
 
+# Try to create geolocation for items
 Geocoder().geocode()
