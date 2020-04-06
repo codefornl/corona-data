@@ -2,7 +2,6 @@
 import requests
 import json
 from .database import Initiative, Db
-import time
 
 class CoronaHelpers:
     """A simple example class"""

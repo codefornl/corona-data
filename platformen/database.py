@@ -1,4 +1,4 @@
-from sqlalchemy import Column, ForeignKey, Integer, String, Text
+from sqlalchemy import Column, ForeignKey, Integer, String, Text, Float
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import relationship, sessionmaker
 from sqlalchemy import create_engine
@@ -18,6 +18,10 @@ class Initiative(Base):
     source_id = Column(String(250))
     frequency = Column(String(250))
     location = Column(String(250))
+    latitude = Column(Float)
+    longitude = Column(Float)
+    osm_address = Column(Text)
+
 
 
 class Db:
